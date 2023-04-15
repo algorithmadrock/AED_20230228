@@ -1,5 +1,4 @@
 # AED_20230228
-  Enunciados
     1) Criar uma aplicação em Java que tenha uma função recursiva que calcule o somatório do N primeiros número NATURAIS (a função deve retornar zero para números negativos. O código deve apresentar, em formato de comentário, como foi definida a condição de parada e a relação de chamada dos passos.
     2) Criar uma aplicação em Java que tenha uma função recursiva que, recebendo um número inteiro, converta para binário. Entrada limitada a 2000.  O código deve apresentar, em formato de comentário, como foi definida a condição de parada e a relação de chamada dos passos.
     3) Criar uma aplicação em Java que tenha uma função recursiva que, recebendo um número inteiro (N), apresente a saída da somatória: S= 1 + 1/2 + 1/3 + ... + 1/N.  O código deve apresentar, em formato de comentário, como foi definida a condição de parada e a relação de chamada dos passos.
